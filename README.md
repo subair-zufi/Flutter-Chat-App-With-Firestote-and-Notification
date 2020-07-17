@@ -1,6 +1,11 @@
 # Flutter Chat App
 
-Chat App With Firestore Database and Firebase Custom Notification.
+Simple chat app with:
+- Web Support
+- Firestore Database
+- Notification
+- and Firebase Email Authentication
+
 
 ## Getting Started
 
