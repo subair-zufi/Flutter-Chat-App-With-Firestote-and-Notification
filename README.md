@@ -10,7 +10,8 @@ Chat App With Firestore Database and Firebase Custom Notification.
 4. Run the app. Happy coding
 
 ## Screenshots
-![Authentication](https://github.com/subair-zufi/Flutter-Chat-App-With-Firestote-and-Notification/blob/master/localhost_40675_(Moto%20G4).png) ![Chat Screen](https://github.com/subair-zufi/Flutter-Chat-App-With-Firestote-and-Notification/blob/master/localhost_40675_(Moto%20G4)%20(1).png) 
+<div><img src="https://github.com/subair-zufi/Flutter-Chat-App-With-Firestote-and-Notification/blob/master/localhost_40675_(Moto%20G4).png" width="40%">
+<img src="https://github.com/subair-zufi/Flutter-Chat-App-With-Firestote-and-Notification/blob/master/localhost_40675_(Moto%20G4)%20(1).png" width="40%"> </div>
 
 
 A few resources to get you started if this is your first Flutter project:
