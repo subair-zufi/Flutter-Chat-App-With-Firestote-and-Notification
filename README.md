@@ -1,10 +1,14 @@
-# chatapp
+# Flutter Chat App
 
-A new Flutter project.
+Chat App With Firestore Database and Firebase Custom Notification.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter SDK and an editor
+2. Clone this product from https://github.com/subair-zufi/Flutter-Chat-App-With-Firestote-and-Notification.git
+3. Create Firebase projects. Add Web-Android-Ios apps. And setup all three apps for [Android, Ios](https://firebase.google.com/docs/flutter/setup) [and Web](https://medium.com/flutter/must-try-use-firebase-to-host-your-flutter-app-on-the-web-852ee533a469).
+4. Run the app. Happy coding
+
 
 A few resources to get you started if this is your first Flutter project:
 
